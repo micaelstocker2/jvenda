@@ -1,0 +1,15 @@
+<!doctype>
+<html lang = "pt-br">
+	<head>
+		<title>Cadastro de Clientes</title>
+	</head>
+	<body>
+		<h1>BEM VINDO AO PROJETO JVENDA</h1>
+	<from>
+		<div id="container">
+			
+		</div>	
+	</form>
+	</body>
+
+</html>
